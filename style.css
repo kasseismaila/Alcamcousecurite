@@ -1,0 +1,66 @@
+
+.logo img{
+width: 25%;
+}
+
+.contente img{
+ width: 60%;
+ }
+ header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+ }
+ 
+
+p
+
+{
+
+ text-align: center;
+ text-transform: capitalize;
+ border: 9px solid teal;
+ border-radius: 10px;
+ color: blue;
+ font-size: 60px; background-color: chartreuse;
+ 
+ }
+ .img img{
+    width: 45%;
+ }
+ .imggg img{
+   width: 50%;
+
+ }
+ .PPP{
+  background-color: rgb(8, 95, 136);
+
+ }
+ nav ul li{
+  display: inline flex;
+  margin: 10px;
+  list-style: none;
+ }
+ nav a{
+  text-decoration: none;
+  color: black;
+ }
+ nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+ }
+ 
+ .TTT img{
+  width: 60%;
+
+ }
+ .AAA img{
+  width: 13%;
+
+ }
+.KKK img {
+  width: 55%;
+}
+
+
